@@ -15,3 +15,7 @@ Type a city name and get the current temperature, weather description, and wind 
 ---
 
 ## Files
+weather-app/
+├── index.html
+├── style.css
+└── script.js
